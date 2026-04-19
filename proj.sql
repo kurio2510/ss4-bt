@@ -96,7 +96,7 @@ UPDATE Student
 SET email = "nguyenVanA@gmail.com" WHERE id = 1;
 
 UPDATE Course
-SET `description` = "Khóa học này rất hữu ích" WHERE id = 1;
+SET `description` = "Khóa học này rất hữu ích" WHERE id = 1; 
 
 UPDATE Score
 SET finalGrade = 7.25 WHERE studentID = 1;
